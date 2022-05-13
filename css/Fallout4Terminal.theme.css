@@ -2,19 +2,16 @@
  * @name Fallout 4 Terminal
  * @author Bates#7075
  * @version 1.0.0
- * @source https://github.com/CommandCrafterHD/Fallout4TerminalTheme
- * @website https://commandcrafterhd.github.io/Fallout4TerminalTheme
- * @donate https://www.paypal.com/paypalme/floriancegledi
- * @patreon https://patreon.com/bates
- * @description A theme inspired by Fallout 4's terminals!
- * @authorId 137259132305539072
- * @invite 6qd3SkP6Ch
+ * @source https://github.com/Treovan/TerminalThemeForBetterDiscord
+ * @website https://treovan.github.io/TerminalThemeForBetterDiscord
+ * @donate https://qiwi.com/n/TREOVAN
+ * @description A theme inspired by Treovan terminal!
 */
 
-@import url('https://commandcrafterhd.github.io/Fallout4TerminalTheme/css/main.css');
+@import url('https://treovan.github.io/TerminalThemeForBetterDiscord/css/main.css');
 /* ^ THIS IS THE MAIN IMPORT. DO NOT TOUCH THIS OR THE THEME WILL BREAK. ^ */
 
-/* @import url('https://commandcrafterhd.github.io/Fallout4TerminalTheme/css/disableCRT.css'); */
+/* @import url('https://treovan.github.io/TerminalThemeForBetterDiscord/css/disableCRT.css'); */
 /* ^ UNCOMMENT THIS IMPORT IF YOU WANT TO REMOVE THE CRT EFFECT ^ */
 
 /* TO CUSTOMIZE THE THEME, UNCOMMENT THE LINES BELOW AND REPLACE THE VARIABLES */

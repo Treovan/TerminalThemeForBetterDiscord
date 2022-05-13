@@ -120,7 +120,7 @@ body *, .userPopout-3XzG_A * {
 .wordmarkWindows-2dq6rw::after {
   content: '';
   display: inline-block;
-  -webkit-mask-image: url("https://commandcrafterhd.github.io/Fallout4TerminalTheme/svg/title.svg");
+  -webkit-mask-image: url("https://treovan.github.io/TerminalThemeForBetterDiscord/svg/title.svg");
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-size: cover;
   background-color: var(--highlight);
